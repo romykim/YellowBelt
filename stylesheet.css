@@ -1,0 +1,320 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 970px;
+    height: auto;
+    padding: 0px;
+}
+.header{
+    width: 900px;
+    height: 50px;
+    border: solid #DDDDDD 1px;
+    border-radius:8px;
+    background: linear-gradient(#F6F6F6, #E2E2E2);
+}
+.menu_icon{
+    width: 60px;
+    height: 50px;
+    display: inline-block;
+}
+.menu{
+    width: 570px;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+}
+.menu h4{
+    margin-top: 10px;
+
+}
+.store1{
+    height: 50px;
+    width: 60px;
+    display: inline-block;
+    margin-left: 10px;
+    border-right: solid #DDDDDD 1px;
+}
+.blog{
+    height: 50px;
+    width: 60px;
+    border-right: solid #DDDDDD 1px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.forums{
+    height: 50px;
+    width: 60px;
+    border-right: solid #DDDDDD 1px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.support1{
+    height: 50px;
+    width: 60px;
+    display: inline-block;
+    margin-left: 20px;
+    border-right: solid #DDDDDD 1px;
+
+}
+.contact{
+height: 50px;
+width: 70px;
+border-right: solid #DDDDDD 1px;
+display: inline-block;
+margin-left: 20px;
+}
+.search_container{
+    width: 260px;
+    display: inline-block;
+    height: 50px;
+    vertical-align: top;
+}
+.search_container input{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.search_container img{
+    margin-top: 10px;
+    position: absolute;
+}
+.search{
+    width: 120px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.search_side{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.accordance{
+    width: 900px;
+    height: 380px;
+    background-color: #49474A
+}
+.accordance_pic{
+    width: 900px;
+    height: 350px;
+}
+.accordance p{
+    margin-left:10px;
+    color: #638FAF;
+}
+.middle{
+    width: 900px;
+    height: 420px;
+    border: solid #DDDDDD 1px;
+    display: block;
+    border-radius: 10px;
+    margin-top: 20px;
+    background: linear-gradient(#F6F6F6, #E2E2E2);
+}
+.middle_top{
+    height: 80px;
+    width: 900px;
+    
+}
+.advantage{
+    display: inline-block;
+    font-size: 30px;
+    height: 50px;
+    width: 470px;
+    border-right: solid #DDDDDD 1px;
+    margin-top: 15px;
+    margin-left: 80px;
+    font-weight: normal;
+    color: #B4B4B4;
+}
+.button{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    background-color: #4F88AB;
+    margin-left: 30px;
+}
+.middle_middle{
+    border: #DDDDDD solid 1px;
+    height: 280px;
+    width: 900px;
+    margin-top: 10px;
+    border-bottom: solid #DDDDDD 1px;
+}
+.video{
+    height: 240px;
+    width: 200px;
+    border-right: 1px solid #DDDDDD;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.play_button, .content_icon, .free_trial, .ready_to_buy{
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+}
+.video h3, .tour h3, .trial h3, .buy h3{
+    display: inline-block;
+    font-size: 15px;
+    vertical-align: top;
+    margin-top: 3px;
+}
+.video p, .tour p, .trial p, .buy p{
+    font-size: 13px;
+}
+.watchNow,{
+    height: 150px;
+    width: 170px;
+}
+.video button, .tour button, .trial button, .buy button{
+    width: 160px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: #61B2EE;
+    color: white;
+}
+.tour{
+    height: 240px;
+    width: 200px;
+    border-right: 1px solid #DDDDDD;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.tour_img{
+    height: 85px;
+    width: 160px;
+}
+.trial{
+    height: 240px;
+    width: 200px;
+    border-right: 1px solid #DDDDDD;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.trial_img{
+    height: 85px;
+    width: 150px;
+
+}
+.buy{
+    height: 240px;
+    width: 200px;
+    
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.tablets{
+    height: 100px;
+    width: 160px;
+}
+.bottom{
+    height: 300px;
+    width: 900px;
+    margin-top: 30px;
+    border-bottom: 1px solid silver;
+}
+.bottom_top_half{
+    height: 200px;
+    width: 900px;
+    border-bottom: 1px solid silver;
+}
+.about{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+.platform{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 7px;
+}
+.store{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    margin-left: 7px;
+}
+.support{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    margin-left: 7px;
+}
+.community{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 7px;
+}
+.oak_tree{
+    height: 260px;
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 7px;
+}
+.first_list{
+    height: 220px;
+    width: 130px;
+    border-top: solid 1px #B3B5B4;
+}
+.second_list{
+    height: 220px;
+    width: 130px;
+}
+.third_list{
+    height: 220px;
+    width: 130px;
+
+}
+.forth_list{
+    height: 220px;
+    width: 130px;
+
+}
+.fifth_list{
+    height: 220px;
+    width: 130px;
+
+}
+.sixth_list{
+    height: 220px;
+    width: 130px;
+}
+.first_list ul li, .second_list ul li, .third_list ul li, .forth_list ul li, .fifth_list ul li, .sixth_list ul li{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-left: 2px;
+    color: #B3B5B4;
+}
+.bottom h4{
+    font-size: 14px;
+}
+.bottom ul li{
+    font-size: 12px;
+}
+.first_list, .second_list, .third_list, .forth_list, .fifth_list, .sixth_list{
+    margin-top: 5px;
+    border-top: solid #B3B5B4 1px; 
+}
+footer p{
+font-size: 10px;
+color: #B3B5B4;
+margin-left: 5px;
+padding: 2px;
+}
